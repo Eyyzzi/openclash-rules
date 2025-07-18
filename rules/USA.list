@@ -1,7 +1,7 @@
 # TMDB
-DOMAIN-SUFFIX,themoviedb.org
-DOMAIN-SUFFIX,tmdb.org
-DOMAIN-SUFFIX,themoviedb.org
-DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-KEYWORD,themoviedb
+DOMAIN-KEYWORD,tmdb
+DOMAIN-KEYWORD,themoviedb
+DOMAIN-KEYWORD,thetvdb
 # 一只猫 
-DOMAIN-SUFFIX,onecat.cc
+DOMAIN-KEYWORD,onecat
